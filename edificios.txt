@@ -1,0 +1,4 @@
+1 uno 2 6 7 4 12 1 2 3 Juan Perez Lopez
+2 dos 3 8 9 10 2 10 11 Lola Sosa Mtz
+3 tres 4 1 2 3 4 1 9 Maria Garza Cano
+4 cuatro 1 5 5 4 5 6 7 8 David Casas Cantu

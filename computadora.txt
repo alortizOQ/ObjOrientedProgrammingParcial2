@@ -1,0 +1,22 @@
+1 Dell Windows 10 8GB
+2 HP macOS Big Sur 16GB
+3 Lenovo Ubuntu 20.04 12GB
+4 Asus Windows 11 32GB
+5 Acer Chrome OS 4GB
+6 Apple macOS Catalina 64GB
+7 Dell Linux Mint 19.3 16GB
+8 Microsoft Windows 10 8GB
+9 HP Windows 11 16GB
+10 Lenovo Fedora 34 32GB
+11 Asus Ubuntu 21.04 8GB
+12 Acer Chrome OS 8GB
+13 Apple macOS Big Sur 64GB
+14 Dell Windows 10 16GB
+15 Microsoft Windows 11 32GB
+16 Lenovo Ubuntu 20.04 4GB
+17 Asus Fedora 34 16GB
+18 HP Linux Mint 19.3 8GB
+19 Acer Chrome OS 12GB
+20 Apple macOS Catalina 8GB
+21 Microsoft Windows 10 64GB
+22 Lenovo Ubuntu 21.04 16GB
